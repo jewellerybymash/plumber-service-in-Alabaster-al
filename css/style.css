@@ -4445,7 +4445,7 @@ Video CSS
 	15. Process Section CSS
 ---------------------------------------*/
 .rs-process.process-style1 .all-process-item {
-  background-image: url(../images/process-line_1.png);
+  background-image: url(../images/process-line.png);
   background-size: contain;
   background-repeat: no-repeat;
   text-align: center;
@@ -4499,7 +4499,7 @@ Video CSS
   position: relative;
 }
 .rs-process.process-style1.process-about-style .all-process-item {
-  background-image: url(../images/process-line.png);
+  background-image: url(../images/process-line_1.png);
   background-position: 0 5px;
 }
 .rs-process.process-style1.process-about-style .all-process-item .process-item .icon-image img {
